@@ -1,5 +1,3 @@
-# 9_super_store_dva
-
 ## Repository Overview
 This repository contains a comprehensive analysis and visualization summary of the **Super Store DVA** dataset.
 
